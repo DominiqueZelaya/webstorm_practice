@@ -1,0 +1,24 @@
+/* to comment out in CSS use /* */
+
+div{
+    /*
+    width: 100px ;
+     */
+    height:100px;
+    border:1px solid red;
+}
+
+img{
+    border:10px groove orangered;
+}
+
+.dog2{
+    border:30px dashed aqua;
+}
+.dogthree{
+    border:15px double red;
+}
+
+.dogfour{
+    border:10px dotted purple;
+}
