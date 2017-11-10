@@ -1,0 +1,36 @@
+div{
+    width: 10px;
+    height: 20px;
+    background-color: purple;
+    border: dotted 50px;
+    display: inline-block;
+}
+
+p{
+    font-size: large;
+    color: purple;
+}
+
+.puppypic2{
+        border-radius: 100px;
+
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    padding: 10px;
+    margin: 20px;
+}
+
+.puppypic3{
+    border-radius: 800px;
+    border-color: red;
+}
+
+.clickme{
+    background-color: black;
+    color: white;
+    font-size: 200px;
+}
